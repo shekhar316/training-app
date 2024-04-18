@@ -1,0 +1,177 @@
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Application is running on: http:localhost:8000
+[31merror[39m:   Unable to connect to database.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[31merror[39m:   Unable to connect to database.
+[34mdebug[39m:   db connection error: function () { [native code] }
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[34mdebug[39m:   I am hee
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[34mdebug[39m:   Trainer ID from API request header: undefined
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[34mdebug[39m:   Trainer ID from API request header: undefined
+[31merror[39m:   Unable to get Trainer ID.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[34mdebug[39m:   Hey
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[34mdebug[39m:   Trainer ID from API request header: localhost:8000
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[34mdebug[39m:   Trainer ID from API request header: 9412446081
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[34mdebug[39m:   Trainer ID from API request header: 9412446081
+[31merror[39m:   Invalid Trainer ID passed.
+[32minfo[39m:    Listing all trainings.
+[34mdebug[39m:   
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[34mdebug[39m:   Trainer ID from API request header: 9412446081
+[32minfo[39m:    Listing all trainings.
+[34mdebug[39m:   
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[34mdebug[39m:   Trainer ID from API request header: 9412446081
+[32minfo[39m:    Listing all trainings.
+[34mdebug[39m:   
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[34mdebug[39m:   Trainer ID from API request header: 9412446081
+[32minfo[39m:    Listing all trainings.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[34mdebug[39m:   Trainer ID from API request header: 9412446081
+[32minfo[39m:    Listing all trainings.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[31merror[39m:   Cannot access 'dealership' before initialization
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[31merror[39m:   notNull Violation: rpt_dealerships.name cannot be null
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[31merror[39m:   Cannot add or update a child row: a foreign key constraint fails (`rockeddb`.`rpt_attendances`, CONSTRAINT `rpt_attendances_ibfk_1` FOREIGN KEY (`rptTrainingId`) REFERENCES `rpt_trainings` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)
+[31merror[39m:   Cannot add or update a child row: a foreign key constraint fails (`rockeddb`.`rpt_attendances`, CONSTRAINT `rpt_attendances_ibfk_1` FOREIGN KEY (`rptTrainingId`) REFERENCES `rpt_trainings` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[31merror[39m:   Cannot add or update a child row: a foreign key constraint fails (`rockeddb`.`rpt_attendances`, CONSTRAINT `rpt_attendances_ibfk_2` FOREIGN KEY (`rptEmployeeId`) REFERENCES `rpt_employees` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[34mdebug[39m:   emp is: 0
+[31merror[39m:   Cannot add or update a child row: a foreign key constraint fails (`rockeddb`.`rpt_attendances`, CONSTRAINT `rpt_attendances_ibfk_2` FOREIGN KEY (`rptEmployeeId`) REFERENCES `rpt_employees` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)
+[34mdebug[39m:   emp is: 1
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[34mdebug[39m:   emp is: 0
+[31merror[39m:   Cannot add or update a child row: a foreign key constraint fails (`rockeddb`.`rpt_attendances`, CONSTRAINT `rpt_attendances_ibfk_2` FOREIGN KEY (`rptEmployeeId`) REFERENCES `rpt_employees` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)
+[34mdebug[39m:   emp is: 1
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[34mdebug[39m:   emp is: 1
+[34mdebug[39m:   emp is: 3
+[34mdebug[39m:   Trainer ID from API request header: 9412446081
+[32minfo[39m:    Listing all trainings.
+[34mdebug[39m:   Trainer ID from API request header: 9412446081
+[32minfo[39m:    Listing all trainings.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[34mdebug[39m:   Trainer ID from API request header: 9412446081
+[32minfo[39m:    Listing all trainings.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[34mdebug[39m:   Trainer ID from API request header: 9412446081
+[32minfo[39m:    Listing all trainings.
+[32minfo[39m:    Application is running on: http:localhost:8000
+[32minfo[39m:    Database is connected.
+[34mdebug[39m:   Trainer ID from API request header: 9412446081
+[32minfo[39m:    Listing all trainings.
